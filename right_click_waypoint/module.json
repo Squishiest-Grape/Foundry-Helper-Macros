@@ -36,11 +36,6 @@
 		]
 	},
 	"socket": true,
-	"url": "https://github.com/manuelVo/foundryvtt-drag-ruler",
-	"download": "https://github.com/manuelVo/foundryvtt-drag-ruler/archive/v1.13.8.zip",
-	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json",
-	"readme": "https://github.com/manuelVo/foundryvtt-drag-ruler/blob/master/README.md",
-	"changelog": "https://github.com/manuelVo/foundryvtt-drag-ruler/blob/master/CHANGELOG.md",
-	"bugs": "https://github.com/manuelVo/foundryvtt-drag-ruler/issues",
-	"allowBugReporter": true
+	"url": "https://github.com/Squishiest-Grape/Foundry-Helper-Macros/tree/main/right_click_waypoint",
+	"manifest": "https://raw.githubusercontent.com/Squishiest-Grape/Foundry-Helper-Macros/main/right_click_waypoint/module.json"
 }
